@@ -1,0 +1,40 @@
+body {
+    padding: 0 25px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Helvetica Neue";
+    background-image: url(Images/background_img.jpg);
+    color: white;
+}
+
+.top_page_title {
+    color: grey;
+}
+
+div#make-me-red {
+    background-color: aqua !important;
+}
+img {
+    border-radius: 20px;
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+    margin-left: 50px;
+}
+a {
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
+footer {
+    font-family: "Helvetica Neue";
+    text-align: center;
+    position: relative;
+    bottom: -150px;
+}
+.testo {
+    font-family: "Helvetica Neue";
+    text-align: center;
+    position: relative;
+    bottom: -150px;
+}
